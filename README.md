@@ -40,7 +40,7 @@ Create a variable called `name` and assign it to a value of your name. You *shou
 ```js
 // attempting to reassign should throw an error
 name = "Not Raffy" 
-// => TypeError
+// => TypeError 
 ```
 
 ### Question 3
